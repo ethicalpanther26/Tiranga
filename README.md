@@ -4,4 +4,4 @@ Indian Tiranga Flag in python
 
 
 
-![alt text]()
+![Indian Flag](https://github.com/ethicalpanther26/Tiranga/blob/main/flag.jpg)
